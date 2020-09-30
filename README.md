@@ -1,3 +1,2 @@
-# RunningAppAD
-Running Application that can track your run
-##
+# TepukApps
+Aplikasi pembelian pupuk
